@@ -29,7 +29,7 @@ E se você tiver alguma sugestão, fique à vontade para entrar em contato comig
 
 <div align="center"> 
 <a href = "mailto:devrebecalcantara@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rebeca-gabriela-henriques-alcantara-a57a0481" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/re-beca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href ="https://github.com/rebecalcantara"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logocolor=white"target="_blank"></a>
 <a href ="https://www.instagram.com/eurebecahenriques/" target="_blank"><img src="https://img.shields.io/badge/Instagram-930086?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
